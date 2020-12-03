@@ -195,6 +195,7 @@ class ChefDetail extends Component{
    */
   btnClick()
   {
+
     this.props.onBtnClick();// App
   }
   fdChange(e)
