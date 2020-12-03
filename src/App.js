@@ -188,7 +188,6 @@ class ChefDetail extends Component{
   {
     this.props.onTotalClick();
   }
-  // 상위 클래스의 함수 호출시 => 속성으로 함수명을 전송 => 하위클래스에 사용이 가능
   /*
     <ChefDetail recipe={this.state.recipe}
     onFindChange={this.findChange}
